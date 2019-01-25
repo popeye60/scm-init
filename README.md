@@ -1,1 +1,1 @@
-# scm-init
+hello world
